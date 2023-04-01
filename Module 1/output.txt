@@ -1,4 +1,1 @@
-hello world! 
-now i am a programmer!
-notun line a jaw!hello world! 
-now i am a programmer!		notun line a jaw!
+10 10.50 Z
