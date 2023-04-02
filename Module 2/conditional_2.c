@@ -9,6 +9,9 @@ int main()
     else if(tk>=50){
         printf("Fuskha Khabo");
     }
+    else if(tk>=20){
+        printf("Ice cream Khabo");
+    }
     else{
         printf("Kichu khaibo nah bro");
     }
