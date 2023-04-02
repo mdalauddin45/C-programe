@@ -4,16 +4,16 @@ int main()
     int tk;
     scanf("%d",&tk);
     if(tk>=5000){
-        printf("Cox's Bazar jaabo ");
+        printf("Cox's Bazar jaabo\n");
         if(tk>=10000){
-            printf("Saint martin jabo");
+            printf("Saint martin jabo\n");
         }
         else{
-            printf("parot asbo");
+            printf("parot asbo\n");
         }
     }
     else{
-        printf("kotaw jabo nah");
+        printf("kotaw jabo nah\n");
     }
     return 0;
 }
