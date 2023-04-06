@@ -1,13 +1,12 @@
 #include<stdio.h>
 int main(){
-    int i,N;
-    for(i=0;i<=N;i++){
-        if(i%3==0){
-            printf("YES");
+    int N;
+    scanf("%d",&N);
+    if(N%3==0){
+            printf("YES\n");
         }
         else{
-            printf("NO");
+            printf("NO\n");
         }
-    }
     return 0;
 }
