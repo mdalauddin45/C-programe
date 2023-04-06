@@ -1,15 +1,16 @@
 #include<stdio.h>
 int main(){
-    int N;
+    int N,pair;
     scanf("%d",&N);
-    if(1000<N){
-        printf("I will buy Panjabi\n");
-        if(1500<=N){
-        printf("I will buy shoes\nAlisa will buy new shoes\n");
+    pair=N-1000;
+    if(N>1000 && pair>=500){
+       printf("I will buy Punjabi\nI will buy new shoes\nAlisa will buy new shoes");
     }
+    else if(N>1000){
+        printf("I will buy Panjabi\n");
     }
     else{
-        printf("Bed luck");
+        printf("Bad luck!");
     }
     return 0;
 }
