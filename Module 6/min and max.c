@@ -14,6 +14,6 @@ int main()
             min=a;
         }
     }
-     printf("Max-%d\n Min-%d",max,min);
+     printf("Max-%d\nMin-%d",max,min);
     return 0;
 }
