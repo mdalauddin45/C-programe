@@ -1,15 +1,12 @@
 #include<stdio.h>
 int main()
 {
-    int a;
+    char a;
     scanf("%c",&a);
-    if(a='z'){
-       int ans=a-25;
-        printf("%c",ans);
-    }
-    else{
-        int ans=a+1;
-        printf("%c",ans);
-    }
+   if(a=='z'){
+    printf("%c",a-25);
+   }else if(a>='a' && a<='z'){
+    printf("%c",a+1);
+   }
     return 0;
 }
