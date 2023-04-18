@@ -13,7 +13,7 @@ int main()
     for(int i=0;i<m;i++){
         scanf("%d",&b[i]);
     }
-    int ans[n+n];
+    int ans[n+m];
     for(int i=0;i<n;i++){
         ans[i]=a[i];
     }
