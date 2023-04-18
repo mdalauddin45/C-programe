@@ -15,3 +15,4 @@
 4. How to vlaue count of about Counting Array
     4.1 count[arr[i]]++;
 5. How to Character count of about Counting Array
+    5.1 
