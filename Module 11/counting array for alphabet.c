@@ -10,7 +10,9 @@ int main()
        cnt[val]++;
     }
     for(int i=0;i<=25;i++){
-        printf("%c - %d\n",i+'a',cnt[i]);
+       if(cnt[i]!=0){
+         printf("%c - %d\n",i+'a',cnt[i]);
+       }
     }
     return 0;
 }
