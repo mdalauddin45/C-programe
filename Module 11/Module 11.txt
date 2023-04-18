@@ -1,6 +1,11 @@
 1. String copy
     1.1 copy r jnn shortcut strcpy
 2. two String compare
+    2.1 Lexicographical compare (index wise compare)
+      apple < applicant
+      abcd > abc
+      abde > abd
+      abd = abd
 3. two String concatenation (2 ta String join)
 4. How to vlaue count of about Counting Array
 5. How to Character count of about Counting Array
