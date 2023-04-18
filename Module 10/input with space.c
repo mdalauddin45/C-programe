@@ -4,7 +4,7 @@ int main()
 {
     char a[18];
     // gets(a); // ja input diba tai output diby size metter kory na
-    fgets(a,10,stdin);
+    fgets(a,10,stdin); // enter input nai..
     printf("%s",a);
     return 0;
 }
