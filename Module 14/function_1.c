@@ -1,3 +1,4 @@
+//return + parameter
 #include<stdio.h>
 // return_type name(parametter){
 //     code;
