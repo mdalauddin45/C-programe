@@ -1,1 +1,0 @@
-{"name":"Local: Count It","url":"e:\\Phitron\\C programe\\Module 20\\Count It.c","tests":[{"id":1683829165301,"input":"Hello Everyone","output":"Capital - 2\nSmall - 11\nSpaces - 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\C programe\\Module 20\\Count It.c","group":"local","local":true}

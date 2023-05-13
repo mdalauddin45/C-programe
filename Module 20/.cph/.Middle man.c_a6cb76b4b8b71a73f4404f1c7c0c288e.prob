@@ -1,1 +1,0 @@
-{"name":"Local: Middle man","url":"e:\\Phitron\\C programe\\Module 20\\Middle man.c","tests":[{"id":1683864047080,"input":"6\n20 30 10 50 40 60","output":"30 40"},{"id":1683864071661,"input":"5\n40 20 50 10 30","output":"30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\C programe\\Module 20\\Middle man.c","group":"local","local":true}
