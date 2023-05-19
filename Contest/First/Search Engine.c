@@ -14,6 +14,7 @@ int main()
     for(int i=0;i<n;i++){
         if(x==arr[i]){
             y=i+1;
+            break;
         }
     }
     if(y>0){
