@@ -1,0 +1,1 @@
+{"name":"Local: Even Odd 2","url":"e:\\Phitron\\C programe\\LightOJ Problem Solved\\Even Odd 2.c","tests":[{"id":1686321632559,"input":"4\n0\n-22\n5\n1267818768111166","output":"even\neven\nodd\neven"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\C programe\\LightOJ Problem Solved\\Even Odd 2.c","group":"local","local":true}
